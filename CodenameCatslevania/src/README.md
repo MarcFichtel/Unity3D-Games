@@ -1,7 +1,7 @@
 # Codename Catslevania
-Published on April 19, 2016 for Lududm Dare 35
-Theme: Shapeshifting
-Link: https://fishtailgames.itch.io/catslevania
+* Published on April 19, 2016 for Lududm Dare 35
+* Theme: Shapeshifting
+* Link: https://fishtailgames.itch.io/catslevania
 
 ## Description
 This was my first Ludum Dare entry, and also the first time I worked with 3D models in Unity.
