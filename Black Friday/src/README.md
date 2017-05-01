@@ -1,18 +1,16 @@
-# BunRunner
-First published on Newgrounds on May 25, 2015.
+# Black Friday
+Unpublished.
 
-## Disclaimer
-This was my first bigger game (made before I started studying Computer Science), and most of the time I still didn't even know what I was doing. 
+## Description
+An artist who had an idea for a game approached me about collaborating. 
 
-### Description
-Bun Runner is a game about a bunny that was abandoned in the woods. 
-The player navigates three separate areas in order to save the bunny. 
-Along the way, the player has to avoid predators and natural hazards.
+The idea: Black friday sales are coming, and you have to fight your way through hordes of mad consumers to get to the sales you want. It was supposed to be a runner/hack 'n' slash game with an upgrading system between levels, and each level was would end in a boss fight, with 5 levels planned in total.
 
-Bun Runner was inspired by the upcoming Easter holidays of 2015. 
-While the Easter bunny is hiding its chocolate eggs, many parents are looking for appropriate gift ideas for their children. 
-Sometimes, the choice falls on a pet rabbit, as many believe them to be ‘entry level’ pets. 
-Sadly, this is not the case. 
-Bunnies are expensive and high-maintenance pets that require lots of attention and care. 
-And so, in the aftermath of Easter, more than a few bunnies are abandoned. 
-This game aims to bring attention to this issue.
+The concept, I thought, was sound, and the artist's work was decent, so I agreed to do the programming for the game.
+Halfway through the development process, the first prototype was looking good, but interest on the artist's side waned over time.
+While the game was never completed, the artist approached me again about a year later.
+Having taught himself to program, he wanted to finish what we had started. 
+Since I was working on different projects now, I handed the code base over to him. That was the last I heard of it.
+
+Note:
+All of the above work is my own.
