@@ -1,5 +1,6 @@
 # BunRunner
-First published on Newgrounds on May 25, 2015.
+* First published on Newgrounds on May 25, 2015.
+* Link: http://www.newgrounds.com/portal/view/658236
 
 ## Disclaimer
 This was my first bigger game (made before I started studying Computer Science), and most of the time I still didn't even know what I was doing. 
@@ -16,3 +17,7 @@ Sadly, this is not the case.
 Bunnies are expensive and high-maintenance pets that require lots of attention and care. 
 And so, in the aftermath of Easter, more than a few bunnies are abandoned. 
 This game aims to bring attention to this issue.
+
+I received excellent feedback for this game and a lot of praise. 
+* Stregths were good polish, story/motivation, length/content, and general game play.
+* Weaknesses were graphics consistency and difficulty spikes. Turns out only a very small percentage of players made it past level 2 (out of 9 levels).
