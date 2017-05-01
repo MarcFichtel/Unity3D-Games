@@ -12,5 +12,5 @@ While the game was never completed, the artist approached me again about a year 
 Having taught himself to program, he wanted to finish what we had started. 
 Since I was working on different projects now, I handed the code base over to him. That was the last I heard of it.
 
-Note:
+## Disclaimer
 All of the above work is my own.
