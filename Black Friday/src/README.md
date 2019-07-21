@@ -1,5 +1,5 @@
 # Black Friday
-Unpublished.
+Published Nov 27, 2017 on Newgrounds: https://www.newgrounds.com/portal/view/702649
 
 ## Description
 An artist who had an idea for a game approached me about collaborating. 
@@ -14,3 +14,4 @@ Since I was working on different projects now, I handed the code base over to hi
 
 ## Disclaimer
 All of the above work is my own.
+The artist learned to code and completed the game by himself, so the final product contains features that this repo does not.
