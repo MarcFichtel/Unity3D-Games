@@ -7,4 +7,4 @@ This is where I keep the source code for my personal unity projects
 * Black Friday (unpublished)
 
 ## Other
-* Hith'r & Tith'r: http://www.newgrounds.com/portal/view/658663. A 3-day game - a self-induced game jam project, so to say. Unfortunately, I lost the code for it, but wanted to post a link to it anyways. Just as in BunRunner, I had a lot of fun experimenting with the camera in this one.
+* Hith'r & Tith'r: http://www.newgrounds.com/portal/view/658663. I wanted to challenge myself to make a game in 3 days. Unfortunately, I lost the code for it, but wanted to post a link to it anyways. Just as in BunRunner, I had a lot of fun experimenting with the camera in this one.
